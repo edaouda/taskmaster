@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+table, th, td {
+    border: 1px solid grey;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+#formAddTask {
+    margin-top: 13px;
+}
