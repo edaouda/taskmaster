@@ -1,7 +1,6 @@
 attrs==19.3.0
 backports.entry-points-selectable==1.1.1
 blinker==1.4
-Brlapi==0.7.0
 cached-property==1.5.1
 certifi==2019.11.28
 chardet==3.0.4
