@@ -7,7 +7,6 @@ Flask
 Flask-SQLAlchemy
 greenlet
 gunicorn
-gun
 itsdangerous
 Jinja2
 kiwisolver
